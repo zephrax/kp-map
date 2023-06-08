@@ -465,7 +465,7 @@
                 {
                  "height":120,
                  "id":22,
-                 "name":"ChatZone",
+                 "name":"chatZone",
                  "properties":[
                         {
                          "name":"chatDescription",
@@ -483,6 +483,17 @@
                  "width":404.631632523222,
                  "x":232.854052678458,
                  "y":550
+                }, 
+                {
+                 "height":0,
+                 "id":23,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":599.312889680621,
+                 "y":829.622089324342
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -565,7 +576,7 @@
          "y":0
         }],
  "nextlayerid":63,
- "nextobjectid":23,
+ "nextobjectid":24,
  "orientation":"orthogonal",
  "properties":[
         {
